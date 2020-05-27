@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638458016647",
+    "firebase_url": "https://sagsabzidriver.firebaseio.com",
+    "project_id": "sagsabzidriver",
+    "storage_bucket": "sagsabzidriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638458016647:android:7adbee0c8857b76979d922",
+        "android_client_info": {
+          "package_name": "com.sagsabzi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638458016647-09phub5stsqnjlcpi248johfitr8tdu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKTsHyiwKgE0t97q4WRK27laShur0rwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638458016647-09phub5stsqnjlcpi248johfitr8tdu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
