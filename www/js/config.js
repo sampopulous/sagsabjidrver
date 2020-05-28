@@ -2,7 +2,7 @@
 
 var krms_driver_config ={			
 	'ApiUrl':"http://sagsabzi.com/dev/driver/api",		
-	'DialogDefaultTitle':"Sagsabzi DriverApp",
+	'DialogDefaultTitle':"SagsabziDriverApp",
 	'mapboxToken' : '',
 	'APIHasKey':"osksnasknashishaasaUGHM",
 	'debug': false
